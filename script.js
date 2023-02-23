@@ -15,3 +15,4 @@ function minimumCost() {
     }  
     document.getElementById("result").innerHTML = cost;
 }
+
